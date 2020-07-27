@@ -1,12 +1,15 @@
 # How to use GTest with Qt
 
 This project is based on the tutorial video of Justin Noel at ics.com
+
 https://www.ics.com/webinars/qt-test-driven-development-using-google-test-google-mock-video-demand
 
 ## Prerequisities
 
 GTest installed
+
 CMake installed
+
 Qt5 installed
 
 ## How to build the project
